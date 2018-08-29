@@ -1,3 +1,9 @@
+---
+author: "Sam Miles"
+title: "Learning is fun"
+date: 2018-08-28
+---
+
 #First Post
 
 ## This is a test
