@@ -1,0 +1,2 @@
+# ballmerspeak
+Blog of ideas
